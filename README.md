@@ -1,4 +1,4 @@
-# Stock Price and Volume Data Analysis
+# Stock Price and Volume Data Analysis , and  then Predict the stock 
 
 ## Project Overview
 This project is focused on **analyzing stock price and trading volume data**. Historical stock data is fetched using an API, cleaned, and prepared for further analysis or visualization.  
@@ -10,6 +10,9 @@ The project was completed as part of an **AfriTEC Program assignment**.
 - **Endpoint:** Historical Price (End of Day – Full)  
 - **Documentation:** [FMP API Docs](https://site.financialmodelingprep.com/developer/docs/stable/historical-price-eod-full)
 - **Data Provided:** Open, High, Low, Close prices, Volume, Change, Change %, VWAP, and Date  
+
+## Model saving using Joblib
+
 
 ## Sample Data Record
 ```json
